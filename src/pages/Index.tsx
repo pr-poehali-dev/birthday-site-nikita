@@ -48,8 +48,8 @@ export default function Index() {
                 <Icon name="Calendar" size={32} className="text-primary mx-auto mb-3" />
                 <h3 className="font-semibold text-lg mb-2">Когда?</h3>
                 <p className="text-muted-foreground">
-                  28 июля 2025<br />
-                  В 15:00
+                  29 августа 2025<br />
+                  В 12:00
                 </p>
               </CardContent>
             </Card>
@@ -89,7 +89,7 @@ export default function Index() {
                 </p>
                 <div className="flex items-center justify-center gap-2 text-primary font-semibold">
                   <Icon name="Clock" size={20} />
-                  <span>15:00 - 17:00</span>
+                  <span>12:00 - 14:00</span>
                 </div>
               </CardContent>
             </Card>
@@ -107,7 +107,7 @@ export default function Index() {
                 </p>
                 <div className="flex items-center justify-center gap-2 text-secondary font-semibold">
                   <Icon name="Clock" size={20} />
-                  <span>17:00 - 18:30</span>
+                  <span>14:00 - 15:30</span>
                 </div>
               </CardContent>
             </Card>
